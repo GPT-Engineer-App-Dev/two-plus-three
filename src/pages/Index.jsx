@@ -39,7 +39,7 @@ const Index = () => {
     <Box p={5}>
       <Box mb={4}>
         <Input placeholder="Add a new task" value={input} onChange={(e) => setInput(e.target.value)} onKeyPress={(e) => e.key === "Enter" && handleAddTask()} />
-        <Button leftIcon={<FaPlus />} colorScheme="blue" ml={2} onClick={handleAddTask}>
+        <Button leftIcon={<FaPlus />} colorScheme="green" ml={2} onClick={handleAddTask}>
           Add Task
         </Button>
       </Box>

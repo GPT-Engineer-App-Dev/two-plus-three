@@ -1,9 +1,12 @@
 # two-plus-three
 
-Implement a basic todo app with the following features:
-- Ability to add new tasks
-- Option to mark tasks as completed
-- Ability to delete tasks
+Implement a comprehensive todo app with the following features:
+- Ability to add tasks with options for setting due dates and priority levels
+- Edit functionality for each task
+- Sorting options for tasks by date, priority, or completion status
+- Filters to view all tasks, active tasks, or completed tasks
+- Notifications for tasks nearing their due dates
+- Responsive and visually appealing design
 
 ## Collaborate with GPT Engineer
 
